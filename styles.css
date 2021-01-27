@@ -1,0 +1,187 @@
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+  color: grey;
+}
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+/* Title */
+
+
+.large-heading-t{
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+#title, #cta
+{
+  background-color: #ff4c68;
+color: white;
+}
+
+#features {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  position: relative;
+  z-index: 1;
+  background-color: white;
+}
+.heroimg{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  margin-left: 10%;}
+
+.col-md-12 {
+  margin-top: 0%;
+  margin-bottom: 0%;
+
+}
+.container-fluid1{
+  padding: 0% 10% 15% 10%;
+}
+.container-fluid2{
+  padding: 5% 5%;
+  background-color: white;
+}
+
+.navbar{
+  padding: 0 0 4.5rem 0;
+
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  margin: 0 18px;
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+.download-btn {
+  margin: 5% 1% 0 0;
+}
+
+/* .heroimg{
+  width: 60%;
+  transform: rotate(25deg);
+  position: relative;
+  z-index: 0;
+} */
+
+
+
+.featureheading {
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+
+.featuretext {
+  color: #8f8f8f;
+}
+
+.fas:hover, .fab:hover {
+color: #ff4c68;
+}
+
+
+/*testimonials*/
+
+.h2-heading-testimonials{
+  line-height: 3rem;
+  font-weight: bold;
+}
+
+#testimonials {
+background-color: #ff4c68;
+text-align: center;
+color: white;
+}
+
+.pebbles {
+border-radius: 100%;
+width: 25%;
+padding: 3%;
+}
+
+.carousel-item{
+  padding: 5% 20%;
+}
+
+.carousel-indicators{
+
+  padding-right: 10%;
+}
+
+
+/*press*/
+
+#press {
+background-color: #ff4c68;
+text-align: center;
+padding-bottom: 2%;}
+
+.cred{
+  margin: 2%;
+  width: 11%;
+}
+
+/* pricing-section */
+
+.card-header{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.card-title{
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.h2-heading-pricing {
+  line-height: 3rem;
+  font-weight: bold;
+}
+
+#pricing{
+  padding: 8%;
+}
+
+.pricing-section {
+  padding: 2%;
+}
+/* cta */
+
+#cta {
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.large-heading-cta{
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+/* footer */
+#footer{
+  background-color: #fff;
+  padding: 3%;
+  text-align: center;
+}
+
+.footer-icon{
+  padding: 2% 2%;
+}
